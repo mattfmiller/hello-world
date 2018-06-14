@@ -1,5 +1,7 @@
-# hello-world
-#### A simple web page that collects hellos in many different languages
+# Hello World
+
+#### An Epicodus exercise web page that collects hellos in many different languages
+
 #### By Matt Miller
 
 ## Description
