@@ -10,7 +10,7 @@ This is a webpage created to explore basic HTML, CSS
 
 ## Setup/Installation Requirements
 
-* Clone this repository from https://github.com/mattfmiller/workshop_project
+* Clone this repository from https://github.com/mattfmiller/hello-world
 * Open in a browser
 
 ## Known Bugs
